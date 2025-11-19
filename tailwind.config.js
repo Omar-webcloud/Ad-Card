@@ -4,8 +4,9 @@ module.exports = {
     "./index.html",
     "./src/**/*.{html,js,jsx,ts,tsx}"
   ],
+  darkMode: "media",
   safelist: [
-    "w-32","h-32","bg-blue-500","text-white","flex","items-center","justify-center"
+
   ],
   theme: {
     extend: {},
